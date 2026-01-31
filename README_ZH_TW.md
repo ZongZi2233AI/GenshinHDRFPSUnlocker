@@ -1,151 +1,151 @@
-# ԭ��FPS���i�� (֧ԮHDR) v10270
+# 原神FPS解鎖器 (支援HDR) v10270
 
-[English](README.md) | [��������](README_ZH.md) | **���w����(̨��)** | [���w����(���)](README_ZH_HK.md) | [�ձ��Z](README_JA.md)
-
----
-
-## ?? ��������
-
-�@��һ��**ȫ�������ͬF����**��ԭ��FPS���i�������������[���w���OӋ��
-
-**������ɫ��**
-- ?? **�o����FPS** - �ص��Ƴ���������
-- ?? **ԭ��HDR֧Ԯ** - �Ԅ�����HDR��䛙nֵ
-- ?? **6�Z�Խ���** - �������Z��֧Ԯ
-- ?? **���r����I** - ��Ctrl + �����I�{��FPS
-- ?? **�Ԅӂɜy** - �ǻ��R�e���İ�͇��H��
-- ?? **���r����** - �@ʾFPS��HDR��B
-- ?? **�O������** - �Ԅӱ����O��
-- ?? **�p�汾֧Ԯ** - ͬ�r֧ԮYuanShen.exe��GenshinImpact.exe
-
-**��ǰ�汾:** v10270  
-**�ڙ��l��:** Apache License 2.0
+[English](README.md) | [简体中文](README_ZH.md) | **繁體中文(台灣)** | [繁體中文(香港)](README_ZH_HK.md) | [日本語](README_JA.md)
 
 ---
 
-## ?? ��Ҫ����
+## ?? 專案簡介
 
-| ���� | �f�� |
+這是一個**全面增強和現代化**的原神FPS解鎖器，專為提升遊戲體驗而設計。
+
+**核心特色：**
+- ?? **120FPS** - 徹底移除60幀率上限
+- ?? **原生HDR支援** - 自動配置HDR登錄檔值
+- ?? **6語言介面** - 完整多語言支援
+- ?? **即時快捷鍵** - 右Ctrl + 方向鍵調整FPS
+- ?? **自動偵測** - 智慧識別中文版和國際版
+- ?? **即時回饋** - 顯示FPS和HDR狀態
+- ?? **設定保存** - 自動保存設定
+- ?? **雙版本支援** - 同時支援YuanShen.exe和GenshinImpact.exe
+
+**當前版本:** v10270  
+**授權條款:** Apache License 2.0
+
+---
+
+## ?? 主要功能
+
+| 功能 | 說明 |
 |------|------|
-| FPS���i | ��ȫ�Ƴ��[�������� |
-| HDR���� | �Ԅ��R�e�@ʾ���K����HDRģʽ |
-| ���Z�� | ֧Ԯ��Ӣ�շ��w���w |
-| ����I | Right Ctrl + �����I���r�{�� |
-| �Ԅӆ��� | �״��������Ԅӆ����[�� |
-| �O���־û� | ӛ��[��·����FPS�O�� |
+| FPS解鎖 | 完全移除遊戲幀率限制 |
+| HDR啟用 | 自動識別顯示器並配置HDR模式 |
+| 多語言 | 支援中英日繁體簡體 |
+| 快捷鍵 | Right Ctrl + 方向鍵即時調整 |
+| 自動啟動 | 首次配置後自動啟動遊戲 |
+| 設定持久化 | 記錄遊戲路徑和FPS設定 |
 
 ---
 
-## ?? ���bʹ��
+## ?? 安裝使用
 
-### ��һ�������d
-��[�l�����](../../releases)���d���°汾 v10270
+### 第一步：下載
+從[發布頁面](../../releases)下載最新版本 v10270
 
-### �ڶ���������
-��**ϵ�y����T����**���г�ʽ
+### 第二步：執行
+以**系統管理員身份**執行程式
 
-### ���������״����ã��H��һ�Σ�
-1. ��ʽ����ʾ�Ҳ����O���n
-2. **�քӆ�������[��**
-3. ��ʽ���ԄӔXȡ�[��·���ͳ����YӍ
-4. �ք��P�]�[��
-5. ��ʽ���Ԅ��؆�
+### 第三步：首次配置（僅需一次）
+1. 程式會提示找不到設定檔
+2. **手動啟動你的遊戲**
+3. 程式會自動擷取遊戲路徑和程序資訊
+4. 手動關閉遊戲
+5. 程式會自動重啟
 
-### ���Ĳ�������ʹ��
-֮��ÿ�Έ��г�ʽ���[���**�Ԅӆ���**
+### 第四步：正常使用
+之後每次執行程式，遊戲會**自動啟動**
 
 ---
 
-## ?? ����I�f��
+## ?? 快捷鍵說明
 
-���[����Еrʹ�ã�
+在遊戲執行時使用：
 
 ```
-��Ctrl + ��  ��  FPS����20
-��Ctrl + ��  ��  FPS�p��20
-��Ctrl + ��  ��  FPS����2
-��Ctrl + ��  ��  FPS�p��2
-END        ��  ��60 FPS����һ��ֵ֮�g�ГQ
+右Ctrl + ↑  →  FPS增加20
+右Ctrl + ↓  →  FPS減少20
+右Ctrl + →  →  FPS增加2
+右Ctrl + ←  →  FPS減少2
+END        →  喺60 FPS和上一個值之間切換
 ```
 
 ---
 
-## ?? ���g����
+## ?? 技術特性
 
-### HDR�Ԅ�����
-- �Ԅӂɜy�[��汾��ԭ��/���H�棩
-- �ڌ�����䛙n·������HDR����
-- �o���ք��޸ĵ�䛙n
+### HDR自動配置
+- 自動偵測遊戲版本（原神/國際版）
+- 在對應登錄檔路徑寫入HDR配置
+- 無需手動修改登錄檔
 
-**����·����**
-- ԭ��: `HKEY_CURRENT_USER\Software\miHoYo\ԭ��\WINDOWS_HDR_ON_h3132281285 = 1`
-- ���H��: `HKEY_CURRENT_USER\Software\miHoYo\Genshin Impact\WINDOWS_HDR_ON_h3132281285 = 1`
+**配置路徑：**
+- 原神: `HKEY_CURRENT_USER\Software\miHoYo\原神\WINDOWS_HDR_ON_h3132281285 = 1`
+- 國際版: `HKEY_CURRENT_USER\Software\miHoYo\Genshin Impact\WINDOWS_HDR_ON_h3132281285 = 1`
 
-### �ȴ漴�r���a
-- ֱ���޸��[��ȴ��е�FPSֵ
-- ͨ�^shellcodeע�댍�F
-- ֧Ԯ�[����Еr�ӑB�{��
+### 內存即時修補
+- 直接修改遊戲內存中的FPS值
+- 通過shellcode注入實現
+- 支援遊戲執行時動態調整
 
 ---
 
-## ?? �Z��֧Ԯ
+## ?? 語言支援
 
-| �Z�� | ֧Ԯ��B | �ļ��B�Y |
+| 語言 | 支援狀態 | 文件連結 |
 |------|--------|--------|
-| Ӣ�� (English) | ? ���� | [README.md](README.md) |
-| ���w���� | ? ���� | [README_ZH.md](README_ZH.md) |
-| ���w����(̨��) | ? ���� | [README_ZH_TW.md](README_ZH_TW.md) |
-| ���w����(���) | ? ���� | [README_ZH_HK.md](README_ZH_HK.md) |
-| ���w����(�¼���) | ? ���� | [README.md](README.md) |
-| ���� (�ձ��Z) | ? ���� | [README_JA.md](README_JA.md) |
+| 英文 (English) | ? 完整 | [README.md](README.md) |
+| 簡體中文 | ? 完整 | [README_ZH.md](README_ZH.md) |
+| 繁體中文(台灣) | ? 完整 | [README_ZH_TW.md](README_ZH_TW.md) |
+| 繁體中文(香港) | ? 完整 | [README_ZH_HK.md](README_ZH_HK.md) |
+| 繁體中文(新加坡) | ? 完整 | [README.md](README.md) |
+| 日文 (日本語) | ? 完整 | [README_JA.md](README_JA.md) |
 
 ---
 
-## ?? ��Ҫ�f��
+## ?? 重要說明
 
-### �L�U��
-- �����ߕ��޸��[��ȴ��Windows��䛙n
-- ʹ��ǰՈ���Â��
-- ʹ���L�U��ȫ��ʹ�������гГ�
+### 風險聲明
+- 本工具會修改遊戲內存和Windows登錄檔
+- 使用前請做好備份
+- 使用風險完全由使用者自行承擔
 
-### ������
-- �cHoYoverse��miHoYo�o�κΏČ��P�S
-- �����`���[�򡶷��՗l�
-- �����C��̖��ȫ��Ո֔��ʹ��
+### 法律聲明
+- 與HoYoverse或miHoYo無任何從屬關係
+- 可能違反遊戲《服務條款》
+- 不保證帳號安全，請謹慎使用
 
 ---
 
-## ?? ��Ҋ���}
+## ?? 常見問題
 
-### Q1: �[��o���Ԅӆ���
-**A:** �z�� `fps_config.ini` �е��[��·���Ƿ����_�ҙn������
+### Q1: 遊戲無法自動啟動
+**A:** 檢查 `fps_config.ini` 中的遊戲路徑是否正確且檔案存在
 
-### Q2: HDR���@ʾЧ��
+### Q2: HDR不顯示效果
 **A:** 
-1. �_�J�@ʾ��֧ԮHDR
-2. ��Windows�O���І���HDR
-3. �_���[���O����Ҳ������HDR
+1. 確認顯示器支援HDR
+2. 喺Windows設定中啟用HDR
+3. 確保遊戲設定中也啟用了HDR
 
-### Q3: ������IFPS��׃��
+### Q3: 按快捷鍵FPS不變化
 **A:**
-1. �؆��[��
-2. �_������̨ҕ������̨����
-3. �Lԇ�ఴ�״ο���I
+1. 重啟遊戲
+2. 確保控制台視窗在後台執行
+3. 嘗試多按幾次快捷鍵
 
 ---
 
-## ?? �ڙ༰���x
+## ?? 授權及致謝
 
-### �ڙ��l��
-���������� **Apache License 2.0**
+### 授權條款
+本專案採用 **Apache License 2.0**
 
-### ԭ�������x
-�������`�Ё��ԁK����������ĸ��
+### 原專案致謝
+本專案靈感來自並基於以下專案的概念：
 - https://github.com/xiaonian233/genshin-fps-unlock
 - https://github.com/34736384/genshin-fps-unlock
 
-�������x�YӍՈ�鿴 [ATTRIBUTION.md](ATTRIBUTION.md)
+完整致謝資訊請查看 [ATTRIBUTION.md](ATTRIBUTION.md)
 
 ---
 
-**���xʹ�� - Made with ?? for Genshin Impact Players**
+**感謝使用 - Made with ?? for Genshin Impact Players**
