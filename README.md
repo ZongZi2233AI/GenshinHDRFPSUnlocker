@@ -1,6 +1,6 @@
 # Genshin Impact FPS Unlocker with HDR Support v10270
 
-[English](#english) | [¼òÌåÖĞÎÄ](#¼òÌåÖĞÎÄ) | [·±ówÖĞÎÄ(Ì¨³)](#·±ówÖĞÎÄÌ¨³) | [·±ówÖĞÎÄ(Ïã¸Û)](#·±ówÖĞÎÄÏã¸Û) | [ÈÕ±¾ÕZ](#ÈÕ±¾ÕZ)
+[English](#english) | [ç®€ä½“ä¸­æ–‡](#ç®€ä½“ä¸­æ–‡) | [ç¹é«”ä¸­æ–‡(å°ç£)](#ç¹é«”ä¸­æ–‡å°ç£) | [ç¹é«”ä¸­æ–‡(é¦™æ¸¯)](#ç¹é«”ä¸­æ–‡é¦™æ¸¯) | [æ—¥æœ¬èª](#æ—¥æœ¬èª)
 
 ---
 
@@ -22,7 +22,7 @@ This is an **enhanced and modernized** FPS unlocker for Genshin Impact, featurin
 
 | Feature | Description |
 |---------|-------------|
-| ?? **Unlimited FPS** | Remove frame rate caps completely |
+| ?? **120 FPS** | Remove 60 frame rate caps completely |
 | ?? **HDR Support** | Enable native High Dynamic Range mode |
 | ?? **Multilingual** | Full support for 6 languages |
 | ?? **Hotkey Control** | Adjust FPS in real-time with Right Ctrl + Arrows |
@@ -42,11 +42,11 @@ This is an **enhanced and modernized** FPS unlocker for Genshin Impact, featurin
 ### ?? Hotkey Reference
 
 ```
-Right Ctrl + ¡ü  ¡ú  Increase FPS by 20
-Right Ctrl + ¡ı  ¡ú  Decrease FPS by 20
-Right Ctrl + ¡ú  ¡ú  Increase FPS by 2
-Right Ctrl + ¡û  ¡ú  Decrease FPS by 2
-END             ¡ú  Toggle between 60 FPS and previous value
+Right Ctrl + â†‘  â†’  Increase FPS by 20
+Right Ctrl + â†“  â†’  Decrease FPS by 20
+Right Ctrl + â†’  â†’  Increase FPS by 2
+Right Ctrl + â†  â†’  Decrease FPS by 2
+END             â†’  Toggle between 60 FPS and previous value
 ```
 
 ### ?? Technical Details
@@ -63,7 +63,7 @@ END             ¡ú  Toggle between 60 FPS and previous value
 
 ### ?? Supported Languages
 
-English | ¼òÌåÖĞÎÄ | ·±ówÖĞÎÄ(Ì¨³) | ·±ówÖĞÎÄ(Ïã¸Û) | ·±ówÖĞÎÄ(ĞÂ¼ÓÆÂ) | ÈÕ±¾ÕZ
+English | ç®€ä½“ä¸­æ–‡ | ç¹é«”ä¸­æ–‡(å°ç£) | ç¹é«”ä¸­æ–‡(é¦™æ¸¯) | ç¹é«”ä¸­æ–‡(æ–°åŠ å¡) | æ—¥æœ¬èª
 
 ### ?? Important Notes
 
@@ -75,10 +75,10 @@ English | ¼òÌåÖĞÎÄ | ·±ówÖĞÎÄ(Ì¨³) | ·±ówÖĞÎÄ(Ïã¸Û) | ·±ówÖĞÎÄ(ĞÂ¼ÓÆÂ) | ÈÕ±¾ÕZ
 ### ?? Documentation
 
 For detailed guides in your language:
-- [¼òÌåÖĞÎÄ (Simplified Chinese)](README_ZH.md)
-- [·±ówÖĞÎÄ(Ì¨³) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
-- [·±ówÖĞÎÄ(Ïã¸Û) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
-- [ÈÕ±¾ÕZ (Japanese)](README_JA.md)
+- [ç®€ä½“ä¸­æ–‡ (Simplified Chinese)](README_ZH.md)
+- [ç¹é«”ä¸­æ–‡(å°ç£) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
+- [ç¹é«”ä¸­æ–‡(é¦™æ¸¯) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
+- [æ—¥æœ¬èª (Japanese)](README_JA.md)
 
 ### ?? License & Attribution
 
@@ -106,106 +106,106 @@ Contributions are welcome! Please submit issues and pull requests.
 
 ---
 
-## ¼òÌåÖĞÎÄ
+## ç®€ä½“ä¸­æ–‡
 
-### ?? ÏîÄ¿¼ò½é
+### ?? é¡¹ç›®ç®€ä»‹
 
-ÕâÊÇÒ»¸ö**ÔöÇ¿ºÍÏÖ´ú»¯**µÄÔ­ÉñFPS½âËøÆ÷£¬ÓµÓĞ£º
-- **Ô­ÉúHDRÖ§³Ö**ÒÔ»ñµÃÔöÇ¿µÄÊÓ¾õÖÊÁ¿
-- **¶àÓïÑÔ½çÃæ**£¨Ö§³Ö5ÖÖÓïÑÔ£©
-- **¸ß¼¶×¢²á±íÓÅ»¯**ÒÔ»ñµÃ×î¼ÑÓÎÏ·ÉèÖÃ
-- **ÊµÊ±FPSµ÷Õû**Í¨¹ı¿ì½İ¼ü
-- **×Ô¶¯ÓÎÏ·¼ì²â**Ö§³ÖÖĞÎÄ°æºÍ¹ú¼Ê°æ
+è¿™æ˜¯ä¸€ä¸ª**å¢å¼ºå’Œç°ä»£åŒ–**çš„åŸç¥FPSè§£é”å™¨ï¼Œæ‹¥æœ‰ï¼š
+- **åŸç”ŸHDRæ”¯æŒ**ä»¥è·å¾—å¢å¼ºçš„è§†è§‰è´¨é‡
+- **å¤šè¯­è¨€ç•Œé¢**ï¼ˆæ”¯æŒ5ç§è¯­è¨€ï¼‰
+- **é«˜çº§æ³¨å†Œè¡¨ä¼˜åŒ–**ä»¥è·å¾—æœ€ä½³æ¸¸æˆè®¾ç½®
+- **å®æ—¶FPSè°ƒæ•´**é€šè¿‡å¿«æ·é”®
+- **è‡ªåŠ¨æ¸¸æˆæ£€æµ‹**æ”¯æŒä¸­æ–‡ç‰ˆå’Œå›½é™…ç‰ˆ
 
-**µ±Ç°°æ±¾:** v10270  
-**Ğí¿ÉÖ¤:** Apache License 2.0
+**å½“å‰ç‰ˆæœ¬:** v10270  
+**è®¸å¯è¯:** Apache License 2.0
 
-### ? Ö÷Òª¹¦ÄÜ
+### ? ä¸»è¦åŠŸèƒ½
 
-| ¹¦ÄÜ | ËµÃ÷ |
+| åŠŸèƒ½ | è¯´æ˜ |
 |------|------|
-| ?? **ÎŞÏŞÖÆFPS** | ÍêÈ«ÒÆ³ıÖ¡ÂÊÉÏÏŞ |
-| ?? **HDRÖ§³Ö** | ÆôÓÃÔ­Éú¸ß¶¯Ì¬·¶Î§Ä£Ê½ |
-| ?? **¶àÓïÑÔ** | ÍêÕûÖ§³Ö6ÖÖÓïÑÔ |
-| ?? **¿ì½İ¼ü¿ØÖÆ** | Í¨¹ıÓÒCtrl + ·½Ïò¼üÊµÊ±µ÷ÕûFPS |
-| ?? **×Ô¶¯¼ì²â** | ×Ô¶¯²éÕÒ²¢Æô¶¯ÓÎÏ· |
-| ?? **ÊµÊ±×´Ì¬** | ÏÔÊ¾µ±Ç°FPSºÍHDR×´Ì¬ |
-| ?? **ÅäÖÃ±£´æ** | ±£´æºÍ»Ö¸´ÉèÖÃ |
-| ?? **Ë«°æ±¾Ö§³Ö** | Í¬Ê±Ö§³ÖYuanShen.exeºÍGenshinImpact.exe |
+| ?? **120FPS** | ç§»é™¤60å¸§ç‡ä¸Šé™ |
+| ?? **HDRæ”¯æŒ** | å¯ç”¨åŸç”Ÿé«˜åŠ¨æ€èŒƒå›´æ¨¡å¼ |
+| ?? **å¤šè¯­è¨€** | å®Œæ•´æ”¯æŒ6ç§è¯­è¨€ |
+| ?? **å¿«æ·é”®æ§åˆ¶** | é€šè¿‡å³Ctrl + æ–¹å‘é”®å®æ—¶è°ƒæ•´FPS |
+| ?? **è‡ªåŠ¨æ£€æµ‹** | è‡ªåŠ¨æŸ¥æ‰¾å¹¶å¯åŠ¨æ¸¸æˆ |
+| ?? **å®æ—¶çŠ¶æ€** | æ˜¾ç¤ºå½“å‰FPSå’ŒHDRçŠ¶æ€ |
+| ?? **é…ç½®ä¿å­˜** | ä¿å­˜å’Œæ¢å¤è®¾ç½® |
+| ?? **åŒç‰ˆæœ¬æ”¯æŒ** | åŒæ—¶æ”¯æŒYuanShen.exeå’ŒGenshinImpact.exe |
 
-### ?? ÎÄµµ
+### ?? æ–‡æ¡£
 
-²é¿´ÄãµÄÓïÑÔµÄÏêÏ¸Ö¸ÄÏ£º
-- [¼òÌåÖĞÎÄ (Simplified Chinese)](README_ZH.md)
-- [·±ówÖĞÎÄ(Ì¨³) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
-- [·±ówÖĞÎÄ(Ïã¸Û) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
-- [ÈÕ±¾ÕZ (Japanese)](README_JA.md)
+æŸ¥çœ‹ä½ çš„è¯­è¨€çš„è¯¦ç»†æŒ‡å—ï¼š
+- [ç®€ä½“ä¸­æ–‡ (Simplified Chinese)](README_ZH.md)
+- [ç¹é«”ä¸­æ–‡(å°ç£) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
+- [ç¹é«”ä¸­æ–‡(é¦™æ¸¯) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
+- [æ—¥æœ¬èª (Japanese)](README_JA.md)
 
-### ?? Ğí¿ÉÖ¤¼°ÖÂĞ»
+### ?? è®¸å¯è¯åŠè‡´è°¢
 
-**µ±Ç°ÏîÄ¿Ğí¿ÉÖ¤:** Apache License 2.0
-
----
-
-## ·±ówÖĞÎÄ(Ì¨³)
-
-### ?? Œ£°¸º†½é
-
-ß@ÊÇÒ»‚€**ÔöŠºÍ¬F´ú»¯**µÄÔ­ÉñFPS½âæiÆ÷£¬¾ßÓĞ£º
-- **Ô­ÉúHDRÖ§Ô®**ÒÔ«@µÃÔöŠµÄÒ•ÓXÆ·Ù|
-- **¶àÕZÑÔ½çÃæ**£¨Ö§Ô®5·NÕZÑÔ£©
-- **ßMëAµÇä›™n×î¼Ñ»¯**ÒÔ«@µÃ×î¼Ñß[‘òÔO¶¨
-- **¼´•rFPSÕ{Õû**Í¨ß^¿ì½İæI
-- **×Ô„Óß[‘ò‚Éœy**Ö§Ô®ÖĞÎÄ°æºÍ‡øëH°æ
-
-**®”Ç°°æ±¾:** v10270  
-**ÊÚ™à—l¿î:** Apache License 2.0
-
-### ?? ÎÄ¼ş
-
-²é¿´ÄãµÄÕZÑÔµÄÔ”¼šÖ¸ÄÏ£º
-- [º†ówÖĞÎÄ (Simplified Chinese)](README_ZH.md)
-- [·±ówÖĞÎÄ(Ì¨³) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
-- [·±ówÖĞÎÄ(Ïã¸Û) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
-- [ÈÕ±¾ÕZ (Japanese)](README_JA.md)
+**å½“å‰é¡¹ç›®è®¸å¯è¯:** Apache License 2.0
 
 ---
 
-## ·±ówÖĞÎÄ(Ïã¸Û)
+## ç¹é«”ä¸­æ–‡(å°ç£)
 
-### ?? Œ£°¸º†½é
+### ?? å°ˆæ¡ˆç°¡ä»‹
 
-ÄØ‚€‚SÒ»‚€**Š»¯Í¬¬F´ú»¯**†şÔ­ÉñFPS½âæiÆ÷£¬¾ßÓĞHDRÖ§Ô®¡¢¶àÕZÑÔ½çÃæ¡¢ßMëAµÇä›™n×î¼Ñ»¯¡¢¼´•rFPSÕ{ÕûÍ¬×Ô„Óß[‘ò‚Éœy¡£
+é€™æ˜¯ä¸€å€‹**å¢å¼·å’Œç¾ä»£åŒ–**çš„åŸç¥FPSè§£é–å™¨ï¼Œå…·æœ‰ï¼š
+- **åŸç”ŸHDRæ”¯æ´**ä»¥ç²å¾—å¢å¼·çš„è¦–è¦ºå“è³ª
+- **å¤šèªè¨€ç•Œé¢**ï¼ˆæ”¯æ´5ç¨®èªè¨€ï¼‰
+- **é€²éšç™»éŒ„æª”æœ€ä½³åŒ–**ä»¥ç²å¾—æœ€ä½³éŠæˆ²è¨­å®š
+- **å³æ™‚FPSèª¿æ•´**é€šéå¿«æ·éµ
+- **è‡ªå‹•éŠæˆ²åµæ¸¬**æ”¯æ´ä¸­æ–‡ç‰ˆå’Œåœ‹éš›ç‰ˆ
 
-**®”Ç°°æ±¾:** v10270  
-**ÊÚ™à—l¿î:** Apache License 2.0
+**ç•¶å‰ç‰ˆæœ¬:** v10270  
+**æˆæ¬Šæ¢æ¬¾:** Apache License 2.0
 
-### ?? ÎÄ¼ş
+### ?? æ–‡ä»¶
 
-íûÏÂÄãÓÃ†şÕZÑÔ†şÔ”¼šÖ¸ÄÏ£º
-- [º†ówÖĞÎÄ (Simplified Chinese)](README_ZH.md)
-- [·±ówÖĞÎÄ(Ì¨³) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
-- [·±ówÖĞÎÄ(Ïã¸Û) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
-- [ÈÕ±¾ÕZ (Japanese)](README_JA.md)
+æŸ¥çœ‹ä½ çš„èªè¨€çš„è©³ç´°æŒ‡å—ï¼š
+- [ç°¡é«”ä¸­æ–‡ (Simplified Chinese)](README_ZH.md)
+- [ç¹é«”ä¸­æ–‡(å°ç£) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
+- [ç¹é«”ä¸­æ–‡(é¦™æ¸¯) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
+- [æ—¥æœ¬èª (Japanese)](README_JA.md)
 
 ---
 
-## ÈÕ±¾ÕZ
+## ç¹é«”ä¸­æ–‡(é¦™æ¸¯)
 
-### ?? ¥×¥í¥¸¥§¥¯¥È¸ÅÒª
+### ?? å°ˆæ¡ˆç°¡ä»‹
 
-¤³¤ì¤Ï**Š»¯¤µ¤ì¬F´ú»¯¤µ¤ì¤¿**Ô­Éñ¤ÎFPS¥¢¥ó¥í¥Ã¥«©`¤Ç¡¢HDR¥µ¥İ©`¥È¡¢¶àÑÔÕZ¥¤¥ó¥¿©`¥Õ¥§©`¥¹¡¢¸ß¶È¤Ê¥ì¥¸¥¹¥È¥ê×îßm»¯¡¢¥Û¥Ã¥È¥­©`¤Ë¤è¤ë¥ê¥¢¥ë¥¿¥¤¥àFPSÕ{Õû¡¢×Ô„Ó¥²©`¥à—Ê³ö¤Ê¤É¤Î™CÄÜ¤ò‚ä¤¨¤Æ¤¤¤Ş¤¹¡£
+å‘¢å€‹ä¿‚ä¸€å€‹**å¼·åŒ–åŒç¾ä»£åŒ–**å˜…åŸç¥FPSè§£é–å™¨ï¼Œå…·æœ‰HDRæ”¯æ´ã€å¤šèªè¨€ç•Œé¢ã€é€²éšç™»éŒ„æª”æœ€ä½³åŒ–ã€å³æ™‚FPSèª¿æ•´åŒè‡ªå‹•éŠæˆ²åµæ¸¬ã€‚
 
-**¬FÔÚ¤Î¥Ğ©`¥¸¥ç¥ó:** v10270  
-**¥é¥¤¥»¥ó¥¹:** Apache License 2.0
+**ç•¶å‰ç‰ˆæœ¬:** v10270  
+**æˆæ¬Šæ¢æ¬¾:** Apache License 2.0
 
-### ?? ¥É¥­¥å¥á¥ó¥È
+### ?? æ–‡ä»¶
 
-¤ªÊ¹¤¤¤ÎÑÔÕZ¤ÎÔ”¼š¥¬¥¤¥É¤ò¤´ÓE¤¯¤À¤µ¤¤£º
-- [¼òÌåÖĞÎÄ (Simplified Chinese)](README_ZH.md)
-- [·±ówÖĞÎÄ(Ì¨³) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
-- [·±ówÖĞÎÄ(Ïã¸Û) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
-- [ÈÕ±¾ÕZ (Japanese)](README_JA.md)
+ç‡ä¸‹ä½ ç”¨å˜…èªè¨€å˜…è©³ç´°æŒ‡å—ï¼š
+- [ç°¡é«”ä¸­æ–‡ (Simplified Chinese)](README_ZH.md)
+- [ç¹é«”ä¸­æ–‡(å°ç£) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
+- [ç¹é«”ä¸­æ–‡(é¦™æ¸¯) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
+- [æ—¥æœ¬èª (Japanese)](README_JA.md)
+
+---
+
+## æ—¥æœ¬èª
+
+### ?? ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ¦‚è¦
+
+ã“ã‚Œã¯**å¼·åŒ–ã•ã‚Œç¾ä»£åŒ–ã•ã‚ŒãŸ**åŸç¥ã®FPSã‚¢ãƒ³ãƒ­ãƒƒã‚«ãƒ¼ã§ã€HDRã‚µãƒãƒ¼ãƒˆã€å¤šè¨€èªã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã€é«˜åº¦ãªãƒ¬ã‚¸ã‚¹ãƒˆãƒªæœ€é©åŒ–ã€ãƒ›ãƒƒãƒˆã‚­ãƒ¼ã«ã‚ˆã‚‹ãƒªã‚¢ãƒ«ã‚¿ã‚¤ãƒ FPSèª¿æ•´ã€è‡ªå‹•ã‚²ãƒ¼ãƒ æ¤œå‡ºãªã©ã®æ©Ÿèƒ½ã‚’å‚™ãˆã¦ã„ã¾ã™ã€‚
+
+**ç¾åœ¨ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³:** v10270  
+**ãƒ©ã‚¤ã‚»ãƒ³ã‚¹:** Apache License 2.0
+
+### ?? ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ
+
+ãŠä½¿ã„ã®è¨€èªã®è©³ç´°ã‚¬ã‚¤ãƒ‰ã‚’ã”è¦§ãã ã•ã„ï¼š
+- [ç®€ä½“ä¸­æ–‡ (Simplified Chinese)](README_ZH.md)
+- [ç¹é«”ä¸­æ–‡(å°ç£) (Traditional Chinese - Taiwan)](README_ZH_TW.md)
+- [ç¹é«”ä¸­æ–‡(é¦™æ¸¯) (Traditional Chinese - Hong Kong)](README_ZH_HK.md)
+- [æ—¥æœ¬èª (Japanese)](README_JA.md)
 
 ---
 
