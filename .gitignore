@@ -1,0 +1,4 @@
+# 忽略 Visual Studio 用户特定文件
+.vs/
+# 忽略任何路径下的 .ipch 文件
+**/*.ipch
