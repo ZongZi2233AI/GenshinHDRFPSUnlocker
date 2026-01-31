@@ -1,93 +1,93 @@
-# Ô­ÉñÖ¡ÂÊ¼°HDR½âËøÆ÷ v10270
+# åŽŸç¥žå¸§çŽ‡åŠHDRè§£é”å™¨ v10270
 
-[English](README.md) | **¼òÌåÖÐÎÄ** | [·±ówÖÐÎÄ(Ì¨ž³)](README_ZH_TW.md) | [·±ówÖÐÎÄ(Ïã¸Û)](README_ZH_HK.md) | [ÈÕ±¾ÕZ](README_JA.md)
-
----
-
-## ?? ÏîÄ¿¼ò½é
-
-ÕâÊÇÒ»¸ö**È«ÃæÔöÇ¿ºÍÏÖ´ú»¯**µÄÔ­ÉñFPS½âËøÆ÷£¬×¨ÎªÌáÉýÓÎÏ·ÌåÑé¶øÉè¼Æ¡£
-
-**ºËÐÄÌØÉ«£º**
-- ?? **ÎÞÏÞÖÆFPS** - ³¹µ×ÒÆ³ýÖ¡ÂÊÉÏÏÞ
-- ?? **Ô­ÉúHDRÖ§³Ö** - ×Ô¶¯ÅäÖÃHDR×¢²á±íÖµ
-- ?? **6ÓïÑÔ½çÃæ** - ÍêÕû¶àÓïÑÔÖ§³Ö
-- ?? **ÊµÊ±¿ì½Ý¼ü** - ÓÒCtrl + ·½Ïò¼üµ÷ÕûFPS
-- ?? **×Ô¶¯¼ì²â** - ÖÇÄÜÊ¶±ðÖÐÎÄ°æºÍ¹ú¼Ê°æ
-- ?? **¼´Ê±·´À¡** - ÏÔÊ¾FPSºÍHDR×´Ì¬
-- ?? **ÅäÖÃ±£´æ** - ×Ô¶¯±£´æÉèÖÃ
-- ?? **Ë«°æ±¾Ö§³Ö** - Í¬Ê±Ö§³ÖYuanShen.exeºÍGenshinImpact.exe
-
-**µ±Ç°°æ±¾:** v10270  
-**Ðí¿ÉÖ¤:** Apache License 2.0
+[English](README.md) | **ç®€ä½“ä¸­æ–‡** | [ç¹é«”ä¸­æ–‡(å°ç£)](README_ZH_TW.md) | [ç¹é«”ä¸­æ–‡(é¦™æ¸¯)](README_ZH_HK.md) | [æ—¥æœ¬èªž](README_JA.md)
 
 ---
 
-## ?? Ö÷Òª¹¦ÄÜ
+## ?? é¡¹ç›®ç®€ä»‹
 
-| ¹¦ÄÜ | ËµÃ÷ |
+è¿™æ˜¯ä¸€ä¸ª**å…¨é¢å¢žå¼ºå’ŒçŽ°ä»£åŒ–**çš„åŽŸç¥žFPSè§£é”å™¨ï¼Œä¸“ä¸ºæå‡æ¸¸æˆä½“éªŒè€Œè®¾è®¡ã€‚
+
+**æ ¸å¿ƒç‰¹è‰²ï¼š**
+- ?? **120FPS** - å½»åº•ç§»é™¤60å¸§çŽ‡ä¸Šé™
+- ?? **åŽŸç”ŸHDRæ”¯æŒ** - è‡ªåŠ¨é…ç½®HDRæ³¨å†Œè¡¨å€¼
+- ?? **6è¯­è¨€ç•Œé¢** - å®Œæ•´å¤šè¯­è¨€æ”¯æŒ
+- ?? **å®žæ—¶å¿«æ·é”®** - å³Ctrl + æ–¹å‘é”®è°ƒæ•´FPS
+- ?? **è‡ªåŠ¨æ£€æµ‹** - æ™ºèƒ½è¯†åˆ«ä¸­æ–‡ç‰ˆå’Œå›½é™…ç‰ˆ
+- ?? **å³æ—¶åé¦ˆ** - æ˜¾ç¤ºFPSå’ŒHDRçŠ¶æ€
+- ?? **é…ç½®ä¿å­˜** - è‡ªåŠ¨ä¿å­˜è®¾ç½®
+- ?? **åŒç‰ˆæœ¬æ”¯æŒ** - åŒæ—¶æ”¯æŒYuanShen.exeå’ŒGenshinImpact.exe
+
+**å½“å‰ç‰ˆæœ¬:** v10270  
+**è®¸å¯è¯:** Apache License 2.0
+
+---
+
+## ?? ä¸»è¦åŠŸèƒ½
+
+| åŠŸèƒ½ | è¯´æ˜Ž |
 |------|------|
-| FPS½âËø | ÍêÈ«ÒÆ³ýÓÎÏ·Ö¡ÂÊÏÞÖÆ |
-| HDRÆôÓÃ | ×Ô¶¯Ê¶±ðÏÔÊ¾Æ÷²¢ÅäÖÃHDRÄ£Ê½ |
-| ¶àÓïÑÔ | Ö§³ÖÖÐÓ¢ÈÕ·±Ìå¼òÌå |
-| ¿ì½Ý¼ü | Right Ctrl + ·½Ïò¼üÊµÊ±µ÷Õû |
-| ×Ô¶¯Æô¶¯ | Ê×´ÎÅäÖÃºó×Ô¶¯Æô¶¯ÓÎÏ· |
-| ÅäÖÃ³Ö¾Ã»¯ | ¼ÇÂ¼ÓÎÏ·Â·¾¶ºÍFPSÉèÖÃ |
+| FPSè§£é” | å®Œå…¨ç§»é™¤æ¸¸æˆ60å¸§çŽ‡é™åˆ¶ |
+| HDRå¯ç”¨ | è‡ªåŠ¨è¯†åˆ«æ˜¾ç¤ºå™¨å¹¶é…ç½®HDRæ¨¡å¼ |
+| å¤šè¯­è¨€ | æ”¯æŒä¸­è‹±æ—¥ç¹ä½“ç®€ä½“ |
+| å¿«æ·é”® | Right Ctrl + æ–¹å‘é”®å®žæ—¶è°ƒæ•´ |
+| è‡ªåŠ¨å¯åŠ¨ | é¦–æ¬¡é…ç½®åŽè‡ªåŠ¨å¯åŠ¨æ¸¸æˆ |
+| é…ç½®æŒä¹…åŒ– | è®°å½•æ¸¸æˆè·¯å¾„å’ŒFPSè®¾ç½® |
 
 ---
 
-## ?? °²×°Ê¹ÓÃ
+## ?? å®‰è£…ä½¿ç”¨
 
-### µÚÒ»²½£ºÏÂÔØ
-´Ó[·¢²¼Ò³Ãæ](../../releases)ÏÂÔØ×îÐÂ°æ±¾ v10270
+### ç¬¬ä¸€æ­¥ï¼šä¸‹è½½
+ä»Ž[å‘å¸ƒé¡µé¢](../../releases)ä¸‹è½½æœ€æ–°ç‰ˆæœ¬ v10270
 
-### µÚ¶þ²½£ºÔËÐÐ
-ÒÔ**¹ÜÀíÔ±Éí·Ý**ÔËÐÐ³ÌÐò
+### ç¬¬äºŒæ­¥ï¼šè¿è¡Œ
+ä»¥**ç®¡ç†å‘˜èº«ä»½**è¿è¡Œç¨‹åº
 
-### µÚÈý²½£ºÊ×´ÎÅäÖÃ£¨½öÐèÒ»´Î£©
-1. ³ÌÐò»áÌáÊ¾ÕÒ²»µ½ÅäÖÃÎÄ¼þ
-2. **ÊÖ¶¯Æô¶¯ÄãµÄÓÎÏ·**
-3. ³ÌÐò»á×Ô¶¯²¶»ñÓÎÏ·Â·¾¶ºÍ½ø³ÌÐÅÏ¢
-4. ÊÖ¶¯¹Ø±ÕÓÎÏ·
-5. ³ÌÐò»á×Ô¶¯ÖØÆô
+### ç¬¬ä¸‰æ­¥ï¼šé¦–æ¬¡é…ç½®ï¼ˆä»…éœ€ä¸€æ¬¡ï¼‰
+1. ç¨‹åºä¼šæç¤ºæ‰¾ä¸åˆ°é…ç½®æ–‡ä»¶
+2. **æ‰‹åŠ¨å¯åŠ¨ä½ çš„æ¸¸æˆ**
+3. ç¨‹åºä¼šè‡ªåŠ¨æ•èŽ·æ¸¸æˆè·¯å¾„å’Œè¿›ç¨‹ä¿¡æ¯
+4. æ‰‹åŠ¨å…³é—­æ¸¸æˆ
+5. ç¨‹åºä¼šè‡ªåŠ¨é‡å¯
 
-### µÚËÄ²½£ºÕý³£Ê¹ÓÃ
-Ö®ºóÃ¿´ÎÔËÐÐ³ÌÐò£¬ÓÎÏ·»á**×Ô¶¯Æô¶¯**
+### ç¬¬å››æ­¥ï¼šæ­£å¸¸ä½¿ç”¨
+ä¹‹åŽæ¯æ¬¡è¿è¡Œç¨‹åºï¼Œæ¸¸æˆä¼š**è‡ªåŠ¨å¯åŠ¨**
 
 ---
 
-## ?? ¿ì½Ý¼üËµÃ÷
+## ?? å¿«æ·é”®è¯´æ˜Ž
 
-ÔÚÓÎÏ·ÔËÐÐÊ±Ê¹ÓÃ£º
+åœ¨æ¸¸æˆè¿è¡Œæ—¶ä½¿ç”¨ï¼š
 
 ```
-ÓÒCtrl + ¡ü  ¡ú  FPSÔö¼Ó20
-ÓÒCtrl + ¡ý  ¡ú  FPS¼õÉÙ20
-ÓÒCtrl + ¡ú  ¡ú  FPSÔö¼Ó2
-ÓÒCtrl + ¡û  ¡ú  FPS¼õÉÙ2
-END        ¡ú  ÔÚ60 FPSºÍÉÏÒ»¸öÖµÖ®¼äÇÐ»»
+å³Ctrl + â†‘  â†’  FPSå¢žåŠ 20
+å³Ctrl + â†“  â†’  FPSå‡å°‘20
+å³Ctrl + â†’  â†’  FPSå¢žåŠ 2
+å³Ctrl + â†  â†’  FPSå‡å°‘2
+END        â†’  åœ¨60 FPSå’Œä¸Šä¸€ä¸ªå€¼ä¹‹é—´åˆ‡æ¢
 ```
 
 ---
 
-## ?? ¼¼ÊõÌØÐÔ
+## ?? æŠ€æœ¯ç‰¹æ€§
 
-### HDR×Ô¶¯ÅäÖÃ
-- ×Ô¶¯¼ì²âÓÎÏ·°æ±¾£¨Ô­Éñ/¹ú¼Ê°æ£©
-- ÔÚ¶ÔÓ¦×¢²á±íÂ·¾¶Ð´ÈëHDRÅäÖÃ
-- ÎÞÐèÊÖ¶¯ÐÞ¸Ä×¢²á±í
+### HDRè‡ªåŠ¨é…ç½®
+- è‡ªåŠ¨æ£€æµ‹æ¸¸æˆç‰ˆæœ¬ï¼ˆåŽŸç¥ž/å›½é™…ç‰ˆï¼‰
+- åœ¨å¯¹åº”æ³¨å†Œè¡¨è·¯å¾„å†™å…¥HDRé…ç½®
+- æ— éœ€æ‰‹åŠ¨ä¿®æ”¹æ³¨å†Œè¡¨
 
-**ÅäÖÃÂ·¾¶£º**
-- Ô­Éñ: `HKEY_CURRENT_USER\Software\miHoYo\Ô­Éñ\WINDOWS_HDR_ON_h3132281285 = 1`
-- ¹ú¼Ê°æ: `HKEY_CURRENT_USER\Software\miHoYo\Genshin Impact\WINDOWS_HDR_ON_h3132281285 = 1`
+**é…ç½®è·¯å¾„ï¼š**
+- åŽŸç¥ž: `HKEY_CURRENT_USER\Software\miHoYo\åŽŸç¥ž\WINDOWS_HDR_ON_h3132281285 = 1`
+- å›½é™…ç‰ˆ: `HKEY_CURRENT_USER\Software\miHoYo\Genshin Impact\WINDOWS_HDR_ON_h3132281285 = 1`
 
-### ÄÚ´æÊµÊ±ÐÞ²¹
-- Ö±½ÓÐÞ¸ÄÓÎÏ·ÄÚ´æÖÐµÄFPSÖµ
-- Í¨¹ýshellcode×¢ÈëÊµÏÖ
-- Ö§³ÖÓÎÏ·ÔËÐÐÊ±¶¯Ì¬µ÷Õû
+### å†…å­˜å®žæ—¶ä¿®è¡¥
+- ç›´æŽ¥ä¿®æ”¹æ¸¸æˆå†…å­˜ä¸­çš„FPSå€¼
+- é€šè¿‡shellcodeæ³¨å…¥å®žçŽ°
+- æ”¯æŒæ¸¸æˆè¿è¡Œæ—¶åŠ¨æ€è°ƒæ•´
 
-### ÅäÖÃÎÄ¼þ¹ÜÀí
-³ÌÐò×Ô¶¯´´½¨ `fps_config.ini`£º
+### é…ç½®æ–‡ä»¶ç®¡ç†
+ç¨‹åºè‡ªåŠ¨åˆ›å»º `fps_config.ini`ï¼š
 ```ini
 [Setting]
 Path=C:\Games\Genshin Impact\GenshinImpact.exe
@@ -96,95 +96,95 @@ FPS=120
 
 ---
 
-## ?? ÓïÑÔÖ§³Ö
+## ?? è¯­è¨€æ”¯æŒ
 
-| ÓïÑÔ | Ö§³Ö×´Ì¬ | ÎÄµµÁ´½Ó |
+| è¯­è¨€ | æ”¯æŒçŠ¶æ€ | æ–‡æ¡£é“¾æŽ¥ |
 |------|--------|--------|
-| Ó¢ÎÄ (English) | ? ÍêÕû | [README.md](README.md) |
-| ¼òÌåÖÐÎÄ | ? ÍêÕû | [README_ZH.md](README_ZH.md) |
-| ·±ÌåÖÐÎÄ(Ì¨Íå) | ? ÍêÕû | [README_ZH_TW.md](README_ZH_TW.md) |
-| ·±ÌåÖÐÎÄ(Ïã¸Û) | ? ÍêÕû | [README_ZH_HK.md](README_ZH_HK.md) |
-| ·±ÌåÖÐÎÄ(ÐÂ¼ÓÆÂ) | ? ÍêÕû | [README.md](README.md) |
-| ÈÕÎÄ (ÈÕ±¾ÕZ) | ? ÍêÕû | [README_JA.md](README_JA.md) |
+| è‹±æ–‡ (English) | ? å®Œæ•´ | [README.md](README.md) |
+| ç®€ä½“ä¸­æ–‡ | ? å®Œæ•´ | [README_ZH.md](README_ZH.md) |
+| ç¹ä½“ä¸­æ–‡(å°æ¹¾) | ? å®Œæ•´ | [README_ZH_TW.md](README_ZH_TW.md) |
+| ç¹ä½“ä¸­æ–‡(é¦™æ¸¯) | ? å®Œæ•´ | [README_ZH_HK.md](README_ZH_HK.md) |
+| ç¹ä½“ä¸­æ–‡(æ–°åŠ å¡) | ? å®Œæ•´ | [README.md](README.md) |
+| æ—¥æ–‡ (æ—¥æœ¬èªž) | ? å®Œæ•´ | [README_JA.md](README_JA.md) |
 
 ---
 
-## ?? ÖØÒªËµÃ÷
+## ?? é‡è¦è¯´æ˜Ž
 
-### ·çÏÕÉùÃ÷
-- ±¾¹¤¾ß»áÐÞ¸ÄÓÎÏ·ÄÚ´æºÍWindows×¢²á±í
-- Ê¹ÓÃÇ°Çë×öºÃ±¸·Ý
-- Ê¹ÓÃ·çÏÕÍêÈ«ÓÉÓÃ»§×ÔÐÐ³Ðµ£
+### é£Žé™©å£°æ˜Ž
+- æœ¬å·¥å…·ä¼šä¿®æ”¹æ¸¸æˆå†…å­˜å’ŒWindowsæ³¨å†Œè¡¨
+- ä½¿ç”¨å‰è¯·åšå¥½å¤‡ä»½
+- ä½¿ç”¨é£Žé™©å®Œå…¨ç”±ç”¨æˆ·è‡ªè¡Œæ‰¿æ‹…
 
-### ·¨ÂÉÉùÃ÷
-- ÓëHoYoverse»òmiHoYoÎÞÈÎºÎ´ÓÊô¹ØÏµ
-- ¿ÉÄÜÎ¥·´ÓÎÏ·¡¶·þÎñÌõ¿î¡·
-- ²»±£Ö¤ÕËºÅ°²È«£¬Çë½÷É÷Ê¹ÓÃ
+### æ³•å¾‹å£°æ˜Ž
+- ä¸ŽHoYoverseæˆ–miHoYoæ— ä»»ä½•ä»Žå±žå…³ç³»
+- å¯èƒ½è¿åæ¸¸æˆã€ŠæœåŠ¡æ¡æ¬¾ã€‹
+- ä¸ä¿è¯è´¦å·å®‰å…¨ï¼Œè¯·è°¨æ…Žä½¿ç”¨
 
 ---
 
-## ?? ³£¼ûÎÊÌâ
+## ?? å¸¸è§é—®é¢˜
 
-### Q1: ÓÎÏ·ÎÞ·¨×Ô¶¯Æô¶¯
-**A:** ¼ì²é `fps_config.ini` ÖÐµÄÓÎÏ·Â·¾¶ÊÇ·ñÕýÈ·ÇÒÎÄ¼þ´æÔÚ
+### Q1: æ¸¸æˆæ— æ³•è‡ªåŠ¨å¯åŠ¨
+**A:** æ£€æŸ¥ `fps_config.ini` ä¸­çš„æ¸¸æˆè·¯å¾„æ˜¯å¦æ­£ç¡®ä¸”æ–‡ä»¶å­˜åœ¨
 
-### Q2: HDR²»ÏÔÊ¾Ð§¹û
+### Q2: HDRä¸æ˜¾ç¤ºæ•ˆæžœ
 **A:** 
-1. È·ÈÏÏÔÊ¾Æ÷Ö§³ÖHDR
-2. ÔÚWindowsÉèÖÃÖÐÆôÓÃHDR
-3. È·±£ÓÎÏ·ÉèÖÃÖÐÒ²ÆôÓÃÁËHDR
+1. ç¡®è®¤æ˜¾ç¤ºå™¨æ”¯æŒHDR
+2. åœ¨Windowsè®¾ç½®ä¸­å¯ç”¨HDR
+3. ç¡®ä¿æ¸¸æˆè®¾ç½®ä¸­ä¹Ÿå¯ç”¨äº†HDR
 
-### Q3: °´¿ì½Ý¼üFPS²»±ä»¯
+### Q3: æŒ‰å¿«æ·é”®FPSä¸å˜åŒ–
 **A:**
-1. ÖØÆôÓÎÏ·
-2. È·±£¿ØÖÆÌ¨´°¿ÚÔÚºóÌ¨ÔËÐÐ
-3. ³¢ÊÔ¶à°´¼¸´Î¿ì½Ý¼ü
+1. é‡å¯æ¸¸æˆ
+2. ç¡®ä¿æŽ§åˆ¶å°çª—å£åœ¨åŽå°è¿è¡Œ
+3. å°è¯•å¤šæŒ‰å‡ æ¬¡å¿«æ·é”®
 
-### Q4: ÄÜ·ñÍ¨¹ý¸ü¸Ä´úÂëÖ§³ÖÆäËû°æ±¾£¿
-**A:** ¿ÉÒÔ£¬´úÂë¿ªÔ´¡£Ïê¼û[ATTRIBUTION.md](ATTRIBUTION.md)µÄ¹±Ï×Ö¸ÄÏ
-
----
-
-## ?? ¹±Ï×Ö¸ÄÏ
-
-»¶Ó­Ìá½»IssueºÍPull Request£¡
-
-### ÈçºÎ¹±Ï×£º
-1. Fork±¾²Ö¿â
-2. ´´½¨ÌØÐÔ·ÖÖ§ (`git checkout -b feature/YourFeature`)
-3. Ìá½»¸ü¸Ä (`git commit -am 'Add YourFeature'`)
-4. ÍÆËÍµ½·ÖÖ§ (`git push origin feature/YourFeature`)
-5. Ìá½»Pull Request
-
-### ¹±Ï×·½Ïò£º
-- ?? bugÐÞ¸´
-- ?? ÐÂÓïÑÔÖ§³Ö
-- ?? ÎÄµµ¸Ä½ø
-- ? ÐÔÄÜÓÅ»¯
-- ?? ¹¦ÄÜÔöÇ¿
+### Q4: èƒ½å¦é€šè¿‡æ›´æ”¹ä»£ç æ”¯æŒå…¶ä»–ç‰ˆæœ¬ï¼Ÿ
+**A:** å¯ä»¥ï¼Œä»£ç å¼€æºã€‚è¯¦è§[ATTRIBUTION.md](ATTRIBUTION.md)çš„è´¡çŒ®æŒ‡å—
 
 ---
 
-## ?? Ðí¿ÉÖ¤ºÍÖÂÐ»
+## ?? è´¡çŒ®æŒ‡å—
 
-### Ðí¿ÉÖ¤
-±¾ÏîÄ¿²ÉÓÃ **Apache License 2.0**
+æ¬¢è¿Žæäº¤Issueå’ŒPull Requestï¼
 
-### Ô­ÏîÄ¿ÖÂÐ»
-±¾ÏîÄ¿Áé¸ÐÀ´×Ô²¢»ùÓÚÒÔÏÂÏîÄ¿µÄ¸ÅÄî£º
+### å¦‚ä½•è´¡çŒ®ï¼š
+1. Forkæœ¬ä»“åº“
+2. åˆ›å»ºç‰¹æ€§åˆ†æ”¯ (`git checkout -b feature/YourFeature`)
+3. æäº¤æ›´æ”¹ (`git commit -am 'Add YourFeature'`)
+4. æŽ¨é€åˆ°åˆ†æ”¯ (`git push origin feature/YourFeature`)
+5. æäº¤Pull Request
+
+### è´¡çŒ®æ–¹å‘ï¼š
+- ?? bugä¿®å¤
+- ?? æ–°è¯­è¨€æ”¯æŒ
+- ?? æ–‡æ¡£æ”¹è¿›
+- ? æ€§èƒ½ä¼˜åŒ–
+- ?? åŠŸèƒ½å¢žå¼º
+
+---
+
+## ?? è®¸å¯è¯å’Œè‡´è°¢
+
+### è®¸å¯è¯
+æœ¬é¡¹ç›®é‡‡ç”¨ **Apache License 2.0**
+
+### åŽŸé¡¹ç›®è‡´è°¢
+æœ¬é¡¹ç›®çµæ„Ÿæ¥è‡ªå¹¶åŸºäºŽä»¥ä¸‹é¡¹ç›®çš„æ¦‚å¿µï¼š
 - https://github.com/xiaonian233/genshin-fps-unlock
 - https://github.com/34736384/genshin-fps-unlock
 
-ÍêÕûÖÂÐ»ÐÅÏ¢Çë²é¿´ [ATTRIBUTION.md](ATTRIBUTION.md)
+å®Œæ•´è‡´è°¢ä¿¡æ¯è¯·æŸ¥çœ‹ [ATTRIBUTION.md](ATTRIBUTION.md)
 
 ---
 
-## ?? »ñÈ¡°ïÖú
+## ?? èŽ·å–å¸®åŠ©
 
-- ?? **±¨¸æBug:** [Ìá½»Issue](../../issues)
-- ?? **ÌÖÂÛ¹¦ÄÜ:** [Discussions](../../discussions)
-- ?? **ÆäËûÎÊÌâ:** Í¨¹ýIssueÁªÏµ
+- ?? **æŠ¥å‘ŠBug:** [æäº¤Issue](../../issues)
+- ?? **è®¨è®ºåŠŸèƒ½:** [Discussions](../../discussions)
+- ?? **å…¶ä»–é—®é¢˜:** é€šè¿‡Issueè”ç³»
 
 ---
 
-**¸ÐÐ»Ê¹ÓÃ - Made with ?? for Genshin Impact Players**
+**æ„Ÿè°¢ä½¿ç”¨ - Made with ?? for Genshin Impact Players**
