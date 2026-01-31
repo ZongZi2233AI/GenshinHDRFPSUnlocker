@@ -209,4 +209,4 @@ Contributions are welcome! Please submit issues and pull requests.
 
 ---
 
-**Made with ?? for Genshin Impact players**
+**Made with Love and Github Copilot for Genshin Impact players**
